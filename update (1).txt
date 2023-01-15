@@ -4,7 +4,7 @@
 Name = WinAPD.uz
 ProductVersion = 1.0.2.0
 URL = https://fs41.fex.net/download/4334925528
-Size = 5639384
+Size = 5640192
 ServerFileName = WinAPD.uz.exe
 RegistryKey = HKUD\Software\Apteka.uz\Apteka.uz\Version
 Version = 1.0.2.0
