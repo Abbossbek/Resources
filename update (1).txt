@@ -2,6 +2,15 @@
 
 [Update]
 Name = Apteka.uz
+ProductVersion = 1.0.1.0
+URL = https://apteka.uz/desktop_apteka/index.php?id=1
+Size = 5517826
+ServerFileName = Apteka.uz.exe
+RegistryKey = HKUD\Software\Apteka.uz\Apteka.uz\Version
+Version = 1.0.1.0
+
+[Update]
+Name = Apteka.uz
 ProductVersion = 1.0.2.0
 URL = https://fs41.fex.net/download/4334944029
 Size = 5639384
