@@ -1,7 +1,7 @@
 ;aiu;
 
 [Update]
-Name = WinAPD.exe
+Name = Apteka.exe
 ProductVersion = 1.0.2.0
 URL = https://raw.githubusercontent.com/Abbossbek/Resources/master/Apteka.uz.exe
 Size = 5641892
