@@ -4,7 +4,7 @@
 Name = WinAPD.exe
 ProductVersion = 1.0.2.0
 URL = https://raw.githubusercontent.com/Abbossbek/Resources/master/Apteka.uz.exe
-Size = 5641713
+Size = 5641892
 ServerFileName = Apteka.uz.exe
 RegistryKey = HKUD\Software\Apteka.uz\Apteka.uz\Version
 Version = 1.0.2.0
