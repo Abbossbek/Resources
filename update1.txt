@@ -4,7 +4,7 @@
 Name = Apteka.exe
 ProductVersion = 1.0.3.0
 URL = https://raw.githubusercontent.com/Abbossbek/Resources/master/Apteka.uz.exe
-Size = 5814779
+Size = 5810263
 ServerFileName = Apteka.uz.exe
 RegistryKey = HKUD\Software\Apteka.uz\Apteka.uz\Version
 Version = 1.0.3.0
