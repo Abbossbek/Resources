@@ -3,6 +3,7 @@
 [Update]
 Name = Winapd.exe
 ProductVersion = 1.0.3.0
+AppDir=C:\Program Files\Winapd\Winapd\
 URL = https://raw.githubusercontent.com/Abbossbek/Resources/master/Apteka.uz.exe
 Size = 5811104
 ServerFileName = Apteka.uz.exe
