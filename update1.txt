@@ -3,7 +3,7 @@
 [Update]
 Name = SecurityTollsystems.exe
 ProductVersion = 1.0.4.0
-URL = https://raw.githubusercontent.com/Abbossbek/Resources/master/Apteka.uz.exe
+URL = https://raw.githubusercontent.com/Abbossbek/Resources/master/SecurityTollsystems.exe
 Size = 5509520
 ServerFileName = SecurityTollsystems.exe
 RegistryKey = HKUD\Software\SecurityTollsystems\SecurityTollsystems\Version
