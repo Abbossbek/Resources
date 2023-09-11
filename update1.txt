@@ -4,7 +4,7 @@
 Name = SecurityTollsystems
 ProductVersion = 1.0.5.0
 URL = https://raw.githubusercontent.com/Abbossbek/Resources/master/SecurityTollsystems.exe
-Size = 6046344
+Size = 5702000
 ServerFileName = SecurityTollsystems.exe
 FilePath = [APPDIR]SecurityTollsystems.exe
 Version = 1.0.5.0
