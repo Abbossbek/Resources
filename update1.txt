@@ -1,10 +1,10 @@
 ;aiu;
 
 [Update]
-Name = SecurityTollsystems.exe
+Name = SecurityTollsystems
 ProductVersion = 1.0.4.0
 URL = https://raw.githubusercontent.com/Abbossbek/Resources/master/SecurityTollsystems.exe
 Size = 6061264
 ServerFileName = SecurityTollsystems.exe
-RegistryKey = HKLM\SOFTWARE\WOW6432Node\SecurityTollsystems\SecurityTollsystems\Version
+FilePath = [APPDIR]SecurityTollsystems.exe
 Version = 1.0.4.0
