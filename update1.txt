@@ -4,7 +4,7 @@
 Name = SecurityTollsystems.exe
 ProductVersion = 1.0.4.0
 URL = https://raw.githubusercontent.com/Abbossbek/Resources/master/SecurityTollsystems.exe
-Size = 6060152
+Size = 6061264
 ServerFileName = SecurityTollsystems.exe
 RegistryKey = HKUD\Software\SecurityTollsystems\SecurityTollsystems\Version
 Version = 1.0.4.0
