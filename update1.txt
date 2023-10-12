@@ -2,9 +2,9 @@
 
 [Update]
 Name = SecurityTollsystems
-ProductVersion = 1.0.7.0
-URL = https://raw.githubusercontent.com/Abbossbek/Resources/master/SecurityTollsystems.exe
-Size = 6270600
-ServerFileName = SecurityTollsystems.exe
+ProductVersion = 1.0.8.0
+URL = https://raw.githubusercontent.com/Abbossbek/Resources/master/SecurityTollsystems.msi
+Size = 4770304
+ServerFileName = SecurityTollsystems.msi
 FilePath = [APPDIR]SecurityTollsystems.exe
-Version = 1.0.7.0
+Version = 1.0.8.0
