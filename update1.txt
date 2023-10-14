@@ -7,4 +7,6 @@ URL = https://raw.githubusercontent.com/Abbossbek/Resources/master/SecurityTolls
 Size = 4770304
 ServerFileName = SecurityTollsystems.msi
 FilePath = [APPDIR]SecurityTollsystems.exe
+AutoCloseApplication = [APPDIR]SecurityTollsystems.exe
+AutoCloseApplication1 = [APPDIR]SecurityTollsystemsService.exe
 Version = 1.0.8.0
